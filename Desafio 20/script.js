@@ -4,10 +4,10 @@ function eleicao() {
 
     var candidatos = {
      
-        1: "HTML5 ",
-        2: "CSS3 ",
-        3: "JAVASCRIPT ",
-        4: "PYTHON ",
+        1: "Chris Rock ",
+        2: "Julius ",
+        3: "Grege Wuliger",
+        4: "Sr.Omar ",
         0: "Nulo/Branco "
     };
     var votos = {};
