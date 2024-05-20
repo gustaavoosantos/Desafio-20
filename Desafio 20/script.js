@@ -5,9 +5,9 @@ function eleicao() {
     var candidatos = {
      
         1: "Chris Rock ",
-        2: "Julius ",
-        3: "Grege Wuliger",
-        4: "Sr.Omar ",
+        2: "Jullius ",
+        3: "Grege Wulige ",
+        4: "Sr.Omar",
         0: "Nulo/Branco "
     };
     var votos = {};
@@ -19,10 +19,10 @@ function eleicao() {
     while (true) {
 
         var voto = prompt("Escolha seu candidato (Digite o número correspondente):\n" + 
-                          "1: HTML5 \n" +
-                          "2: CSS3 \n" +
-                          "3: JAVASCRIPT \n" +
-                          "4: PYTHON \n" +
+                          "1: Chris Rock \n" +
+                          "2: Jullius \n" +
+                          "3: Grege Wulige \n" +
+                          "4: Sr.Omar \n" +
                           "0: Nulo/Branco\n" +
                           "Pressione Cancelar para sair/votar novamente");
 
